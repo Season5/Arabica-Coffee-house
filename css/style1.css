@@ -8,6 +8,19 @@ margin-right: auto;
 width: 250px;
 text-align: center;
 }
+.center-div {
+margin-left: auto;
+margin-right: auto;
+width: 250px;
+}
+.floatleft-div {
+float: left;
+width: 30%;
+}
+.floatright-div {
+float: right;
+width: 70%;
+}
 #page{height: 100%;}
 .cb-slideshow,
 .cb-slideshow:after { 
