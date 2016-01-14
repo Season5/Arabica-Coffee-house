@@ -16,10 +16,12 @@ width: 250px;
 .floatleft-div {
 float: left;
 width: 50%;
+    text-align: center;
 }
 .floatright-div {
 float: right;
 width: 50%;
+    text-align: center;
 }
 #page{height: 100%;}
 .cb-slideshow,
