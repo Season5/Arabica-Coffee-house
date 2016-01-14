@@ -2,6 +2,12 @@ ul {
     list-style: none ;
     
 }
+.center-div-txt {
+margin-left: auto;
+margin-right: auto;
+width: 250px;
+text-align: center;
+}
 #page{height: 100%;}
 .cb-slideshow,
 .cb-slideshow:after { 
